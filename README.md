@@ -1,2 +1,2 @@
 # support-solglimt
-Support Website for Solglimt App
+This is a simple support website for my iOS App "Solglimt"
